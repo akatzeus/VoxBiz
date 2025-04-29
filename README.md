@@ -1,2 +1,2 @@
 # VoxBiz
-This is a Voice to Visulization.
+A voice to visualization tool for easy industrial database access.
